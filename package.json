@@ -1,0 +1,9 @@
+{
+   "name": "ipv6-cidr-regex-export",
+   "type": "module",
+   "version": "0.0.1",
+   "main": "regex.js",
+   "dependencies": {
+      "cidr-regex": "^4.1.1"
+   }
+}
